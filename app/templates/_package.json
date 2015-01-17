@@ -1,0 +1,21 @@
+{
+  "name": "<%= appClassName %>",
+  "version": "1.0.0",
+  "description": "<%= appDescription %>",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finance"
+  ],
+  "author": "Matthew McLeod",
+  "license": "ISC",
+  "devDependencies": {
+    "local-web-server": "^0.5.16"
+  },
+  "scripts": {
+    "start": "ws -d app/"
+  }
+  
+}
