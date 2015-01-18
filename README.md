@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-ng-bstrap-rjs [![Build Status](https://secure.travis-ci.org/sparkboom/generator-ng-bstrap-rjs.png?branch=master)](https://travis-ci.org/sparkboom/generator-ng-bstrap-rjs)
 
 > [Yeoman](http://yeoman.io) generator
@@ -45,3 +46,7 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
+=======
+# generator-ng-bstrap-rjs
+Generator that creates angular - bootstrap - requirejs project
+>>>>>>> 8ef3e979fab4ad8502cb252abef3db11dc25bc93
